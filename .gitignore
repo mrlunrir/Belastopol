@@ -1,3 +1,7 @@
+
+.minecraft/config
+.minecraft/logs
+.minecraft/modernfix
 .minecraft/saves
 .minecraft\modernfix
 .minecraft/saves/New World/entities/r.-1.0.mca
@@ -101,3 +105,13 @@
 .minecraft/saves/New World/dimensions/deeperdarker/otherside/data/raids.dat
 .minecraft/saves/New World/dimensions/deeperdarker/otherside/data/ritchiesprojectilelib_chunk_manager.dat
 .minecraft/saves/New World/entities/r.-1.-1.mca
+/.minecraft/config
+/.minecraft/logs
+/.minecraft/logs
+.minecraft/logs/2024-12-21-6.log.gz
+/.minecraft/modernfix
+/.minecraft/modernfix/structureCacheV1
+/.minecraft/config
+/.minecraft/modernfix
+/.minecraft/logs
+/.minecraft/config
