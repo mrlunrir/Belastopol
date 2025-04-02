@@ -1,18 +1,18 @@
-[20:54:02.030][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Fabric
-[20:54:02.035][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[20:54:04.846][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[20:54:04.847][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin jeitweaker:common
-[20:54:04.851][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[20:54:04.857][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:fabric': loading scheduled
-[20:54:04.857][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:common': loading scheduled
-[20:54:04.858][INFO][JEITweaker]: JEITweaker Environmental Check: the combination of mods [jei] is fully supported
-[20:54:04.858][INFO][JEITweaker]: Running JeiTweaker plugin initialization
-[20:54:04.864][INFO][JEITweaker]: JeiTweaker plugin initialization completed successfully
-[20:54:05.070][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[20:54:05.071][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.43'
-[20:54:05.071][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-2.1.6+refabricated'
-[20:54:05.071][INFO][CraftTweaker]: - 'jeitweaker' at version '8.0.6'
-[20:54:05.222][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[20:54:05.400][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[20:54:05.422][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[20:54:05.478][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[10:43:37.141][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Fabric
+[10:43:37.147][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[10:43:40.478][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[10:43:40.479][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin jeitweaker:common
+[10:43:40.483][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[10:43:40.491][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:fabric': loading scheduled
+[10:43:40.491][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:common': loading scheduled
+[10:43:40.492][INFO][JEITweaker]: JEITweaker Environmental Check: the combination of mods [jei] is fully supported
+[10:43:40.492][INFO][JEITweaker]: Running JeiTweaker plugin initialization
+[10:43:40.499][INFO][JEITweaker]: JeiTweaker plugin initialization completed successfully
+[10:43:40.721][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[10:43:40.721][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.43'
+[10:43:40.721][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-2.1.6+refabricated'
+[10:43:40.721][INFO][CraftTweaker]: - 'jeitweaker' at version '8.0.6'
+[10:43:40.882][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[10:43:41.079][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[10:43:41.106][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[10:43:41.168][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
