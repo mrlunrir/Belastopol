@@ -2,6 +2,6 @@ type = last_world
 
 last_world {
   is_server = true
-  world = bell-stop-the-poll.exaroton.me:25565
+  world = 50.20.255.189:25565
 }
 

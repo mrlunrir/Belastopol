@@ -1,5 +1,18 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "simplyswords:runic_grimoire": {
+      "viewedEntries": [
+        "simplyswords:gem_socketing/entry_empowered_remnant"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "indrev:indrev": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
