@@ -126,3 +126,12 @@
 /.minecraft/Distant_Horizons_server_data/Minecraft+Server
 .minecraft/Distant_Horizons_server_data/Minecraft+Server/overworld/DistantHorizons.sqlite-shm
 /.minecraft/data/surveyor
+.minecraft/logs/latest.log
+/.minecraft/logs
+.minecraft/mods/mods.7z
+.minecraft/options.txt
+.minecraft/shaderpacks/ComplementaryReimagined_r5.3.zip.txt
+.minecraft/shaderpacks/ComplementaryReimagined_r5.3.zip.txt
+.minecraft/options.txt
+.minecraft/logs/latest.log
+instance.cfg
