@@ -1,6 +1,4 @@
 
-.minecraft/config
-.minecraft/logs
 .minecraft/modernfix
 .minecraft/saves
 .minecraft\modernfix
@@ -105,20 +103,15 @@
 .minecraft/saves/New World/dimensions/deeperdarker/otherside/data/raids.dat
 .minecraft/saves/New World/dimensions/deeperdarker/otherside/data/ritchiesprojectilelib_chunk_manager.dat
 .minecraft/saves/New World/entities/r.-1.-1.mca
-/.minecraft/config
 /.minecraft/logs
 /.minecraft/logs
 .minecraft/logs/2024-12-21-6.log.gz
 /.minecraft/modernfix
 /.minecraft/modernfix/structureCacheV1
-/.minecraft/config
 /.minecraft/modernfix
 /.minecraft/logs
-/.minecraft/config
 /.minecraft/.mixin.out
 /.minecraft/data
-/.minecraft/config
-/.minecraft/config
 /.minecraft/xaero
 /.minecraft/screenshots
 /.minecraft/Distant_Horizons_server_data
@@ -135,15 +128,9 @@
 .minecraft/options.txt
 .minecraft/logs/latest.log
 instance.cfg
-/.minecraft/config
 /.minecraft/.fabric/processedMods
 .minecraft/TrashSlotSaveState.json
-/.minecraft/config
-/.minecraft/config
-.minecraft/config/majruszsenchantments.json
-.minecraft/config/majruszlibrary.json
 .minecraft/logs/crafttweaker.log
-/.minecraft/logs
 /.minecraft/config
-/.minecraft/config/techreborn
-/.minecraft/logs
+/.minecraft/config
+.minecraft/config/ad_astra-client.jsonc
