@@ -136,3 +136,5 @@
 .minecraft/logs/latest.log
 instance.cfg
 /.minecraft/config
+/.minecraft/.fabric/processedMods
+.minecraft/TrashSlotSaveState.json
