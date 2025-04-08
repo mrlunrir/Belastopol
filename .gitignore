@@ -134,3 +134,13 @@ instance.cfg
 /.minecraft/config
 /.minecraft/config
 .minecraft/config/ad_astra-client.jsonc
+/.minecraft/crash-reports
+/.minecraft/immersive_paintings_cache
+.minecraft/icon.png
+.minecraft/irisUpdateInfo.json
+.minecraft/mmc-pack.json
+.minecraft/patchouli_data.json
+.minecraft/servers.dat
+.minecraft/servers.dat_old
+.minecraft/XaeroWaypoints_BACKUP240807/Multiplayer_bell-stop-the-poll.exaroton.me/config.txt
+.minecraft/fancymenu_data/last_world.fmdata
