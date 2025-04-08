@@ -144,3 +144,6 @@ instance.cfg
 .minecraft/config/majruszlibrary.json
 .minecraft/logs/crafttweaker.log
 /.minecraft/logs
+/.minecraft/config
+/.minecraft/config/techreborn
+/.minecraft/logs

@@ -154,6 +154,17 @@
         "value": 512
       }
     },
+    "eternal_attributes:corruption_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "minecraft:generic.luck": {
       "enabled": true,
       "min": {
@@ -495,6 +506,17 @@
         "value": 1
       }
     },
+    "eternal_attributes:life": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "spell_power:haste": {
       "enabled": false,
       "min": {
@@ -682,6 +704,17 @@
         "value": 40000
       }
     },
+    "eternal_attributes:death": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "spell_power:arcane": {
       "enabled": false,
       "min": {
@@ -790,6 +823,17 @@
       "max": {
         "default": 4,
         "value": 4
+      }
+    },
+    "eternal_attributes:astral": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "bettertrims:unbreaking": {
@@ -957,6 +1001,17 @@
         "value": 1024
       }
     },
+    "eternal_attributes:creation": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "bettertrims:suns_blessing": {
       "enabled": false,
       "min": {
@@ -969,6 +1024,17 @@
       }
     },
     "spell_power:earth": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "eternal_attributes:decaying": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -999,6 +1065,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "eternal_attributes:corruption": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "bettertrims:projectile_dodge_chance": {
@@ -1122,6 +1199,17 @@
         "value": 1024
       }
     },
+    "eternal_attributes:nature": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "creeperoverhaul:swim_speed": {
       "enabled": false,
       "min": {
@@ -1131,6 +1219,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "eternal_attributes:destruction": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "bettertrims:blast_resistance": {
@@ -1197,6 +1296,17 @@
       "max": {
         "default": 4,
         "value": 4
+      }
+    },
+    "eternal_attributes:blood": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "bettertrims:warriors_of_old": {
@@ -1321,6 +1431,17 @@
       }
     },
     "spell_power:nature_element": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "eternal_attributes:unholy": {
       "enabled": false,
       "min": {
         "default": 0,
