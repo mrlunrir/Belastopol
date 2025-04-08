@@ -138,3 +138,9 @@ instance.cfg
 /.minecraft/config
 /.minecraft/.fabric/processedMods
 .minecraft/TrashSlotSaveState.json
+/.minecraft/config
+/.minecraft/config
+.minecraft/config/majruszsenchantments.json
+.minecraft/config/majruszlibrary.json
+.minecraft/logs/crafttweaker.log
+/.minecraft/logs
