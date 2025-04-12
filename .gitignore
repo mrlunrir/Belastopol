@@ -127,7 +127,6 @@
 .minecraft/shaderpacks/ComplementaryReimagined_r5.3.zip.txt
 .minecraft/options.txt
 .minecraft/logs/latest.log
-instance.cfg
 /.minecraft/.fabric/processedMods
 .minecraft/TrashSlotSaveState.json
 .minecraft/logs/crafttweaker.log
@@ -138,7 +137,6 @@ instance.cfg
 /.minecraft/immersive_paintings_cache
 .minecraft/icon.png
 .minecraft/irisUpdateInfo.json
-.minecraft/mmc-pack.json
 .minecraft/patchouli_data.json
 .minecraft/servers.dat
 .minecraft/servers.dat_old
