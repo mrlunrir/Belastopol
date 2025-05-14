@@ -415,3 +415,8 @@
 .minecraft/config/xaerominimap_entities.json
 .minecraft/config/xaeropatreon.txt
 .minecraft/config/yacl.json5
+.minecraft/config/bakery.json
+.minecraft/config/clickadv.json
+.minecraft/config/cupboard.json
+.minecraft/config/farm_and_charm.json
+.minecraft/config/meadow.json
